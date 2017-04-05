@@ -1,0 +1,7 @@
+public class integer{
+
+public static void main(String args[]){
+char a=A;
+System.out.printlin(int(a)+"/n");
+}
+}
